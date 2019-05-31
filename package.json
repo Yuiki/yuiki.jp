@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "prettier": "^1.16.4"
+  },
+  "dependencies": {
+    "bulma": "^0.7.4",
+    "bulma-timeline": "^3.0.1"
+  }
+}
